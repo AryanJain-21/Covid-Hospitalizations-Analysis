@@ -85,9 +85,7 @@ _How I presented the Air Quality changes in lockdown visually was already covere
 
 
 
-![ScatterPlot]([scattergraph.png](https://imgur.com/a/CFOCZFx))
-
-![alt_text](images/image2.png "image_tooltip")
+!(image)[https://i.imgur.com/aEZWthk.png]
 
 
 
