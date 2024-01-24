@@ -50,7 +50,7 @@ _How I presented the Air Quality changes in lockdown visually was already covere
 
 ### How did you treat missing data?
 
-When checking the shape of the hospitalization data in the COVID cases file, about 18 million rows were defined, but 15 million rows were missing. **The magnitude of the missing rows was too high to ignore during analysis, so imputing it was the best option. **
+When checking the shape of the hospitalization data in the COVID cases file, about 18 million rows were defined, but 15 million rows were missing. **The magnitude of the missing rows was too high to ignore during analysis, so imputing it was the best option**.
 
 My first method I got a standard rate of how many cases ended up resulting in hospitalization from the 18 million rows that were defined. Then I used the sample method from the pandas library to randomly assign the 15 million missing rows ‘Yes’. This method was simple, but it resulted in much variability. As rows were assigned randomly, they didn’t have to correlate with any possible trends and could skew some data. To analyze the data, I wanted to remove as much variability as possible.
 
