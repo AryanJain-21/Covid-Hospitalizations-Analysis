@@ -1,4 +1,4 @@
-File to big to upload to GitHub - Cases.csv: [https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4/about_data]([url](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4/about_data))
+File too big to upload to GitHub - Cases.csv: [https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4/about_data]([https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4/about_data])
 
 Aryan Jain - [aryan.km.jain@gmail.com](mailto:aryan.km.jain@gmail.com)
 
