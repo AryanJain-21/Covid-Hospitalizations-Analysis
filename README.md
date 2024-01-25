@@ -44,7 +44,7 @@ _How I presented the Air Quality changes in lockdown visually was already covere
 
 **To present the correlation between the Air Quality Index (AQI) and the COVID-19 hospitalization rate, I used the Seaborn library to create a scatterplot and line of best fit.** I used this type of graph to show the spread and patterns of data, and the line of best fit to show the relation between the axes (the Correlation Coefficient). **I put the Average AQI on the x-axis (The ‘Independent variable’) and the Rate of Hospitalization on the y-axis (The ‘Dependent variable’) to visually show how changing the AQI affects the rate of Hospitalization amongst COVID-19 patients.** _Note: Originally, I converted the rates of hospitalization to percentages but decided to stick with the numerical values because it was easier to work with the data_.
 
-![image](https://github.com/AryanJain-21/EMD-Challenge/assets/149397817/d80abc76-1221-48a5-889e-339da5887614)
+![image](https://github.com/AryanJain-21/EMD-Challenge/assets/149397817/993544b4-f1c8-4086-9ace-8acb93331027)
 
 
 
